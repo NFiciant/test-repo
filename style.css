@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.navbar-home {
+  background-color: aqua !important;
+}
+
+.page-content {
+  padding-top: 130px;
+}
+
+.card {
+  color: #fff;
+}
+
+.card-subtitle {
+  color: #f3f3f3;
+}
+
+.emoji {
+  position: absolute;
+  font-size: 50px;
+  margin-left: 230px;
+  margin-top: -100px;
+}
